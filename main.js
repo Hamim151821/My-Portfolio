@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const h4Element = document.getElementById('dynamicText');
 
     if (h4Element) {
-        const skills = ['Web Development', 'Software Engineer', 'Data Analysis'];
+        const skills = ['Junior Web Developer', 'Finishing Operator', 'Undergraduate Management at Indonesia Open University'];
         let index = 0;
         let typing = true;
         let typedText = '';
